@@ -10,4 +10,4 @@
 
 > **Very important note**
 > 
-> ![Google Search](htpps://www.google.com)
+> [Google Search](https://www.google.com)
