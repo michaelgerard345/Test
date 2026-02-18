@@ -10,4 +10,4 @@
 
 > **Very important note**
 > 
-> [Google Serach](wwww.google.com)
+> [Google Search](www.google.com)
